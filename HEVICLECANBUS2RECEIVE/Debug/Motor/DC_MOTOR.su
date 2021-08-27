@@ -1,0 +1,6 @@
+DC_MOTOR.c:17:6:DC_MOTOR_Init	184	static
+DC_MOTOR.c:100:6:DC_MOTOR_Start	16	static
+DC_MOTOR.c:133:6:DC_MOTOR_Set_Speed	16	static
+DC_MOTOR.c:154:6:DC_MOTOR_Set_Dir	16	static
+DC_MOTOR.c:169:6:DC_MOTOR_Stop	16	static
+DC_MOTOR.c:194:10:DC_MOTOR_Get_MaxFreq	24	static

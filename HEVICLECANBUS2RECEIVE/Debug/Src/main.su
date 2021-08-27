@@ -1,0 +1,13 @@
+main.c:90:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+main.c:186:5:main	48	static
+main.c:279:6:SystemClock_Config	88	static
+main.c:323:13:MX_ADC1_Init	24	static
+main.c:373:13:MX_CAN1_Init	8	static
+main.c:427:13:MX_TIM2_Init	64	static
+main.c:486:13:MX_TIM3_Init	64	static
+main.c:545:13:MX_TIM4_Init	32	static
+main.c:590:13:MX_GPIO_Init	48	static
+main.c:645:6:Received_Value	16	static
+main.c:794:7:readdistance	24	static
+main.c:828:6:Delay_us	16	static
+main.c:845:6:Error_Handler	4	static,ignoring_inline_asm
